@@ -1,5 +1,5 @@
 === Required Plugins ===
-Contributors: Elliot Taylor, Thomas Griffen
+Contributors: Elliot Taylor, Thomas Griffen, Clifton Griffin
 Donate link:
 Tags:
 Requires at least: 4.0.0
