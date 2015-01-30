@@ -125,7 +125,7 @@ function register_my_custom_submenu_page() {
 function my_custom_submenu_page_callback() {
 	
 	echo '<div class="wrap"><div id="icon-tools" class="icon32"></div>';
-		echo '<h2>My Custom Submenu Page</h2>';
+		echo '<h2>Required Plugins List</h2>';
 	echo '</div>';
 	
 	require_once('includes/menu_settings.php');			// required plugins
