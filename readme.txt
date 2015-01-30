@@ -1,5 +1,5 @@
-=== Starter Plugin ===
-Contributors:
+=== Required Plugins ===
+Contributors: Elliot Taylor, Thomas Griffen
 Donate link:
 Tags:
 Requires at least: 4.0.0
@@ -12,9 +12,9 @@ Hey there! I'm your new starter plugin.
 
 == Description ==
 
-Hey there! I'm your new starter plugin.
+Sets required plugins for a WordPress site
 
-Looking for a helping hand? [View plugin documentation](http://domain.com/).
+
 
 == Usage ==
 
